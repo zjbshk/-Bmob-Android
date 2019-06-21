@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">小型网上书店系统</string>
+    <string name="main_activity_hint">请输入文档链接</string>
+    <string name="title_activity_login">登录</string>
+
+    <!-- Strings related to login -->
+    <string name="login_tip">请先登录哦~</string>
+    <string name="prompt_email">邮箱</string>
+    <string name="prompt_password">密码</string>
+    <string name="action_sign_in">登录</string>
+    <string name="action_sign_in_short">登录</string>
+    <string name="error_invalid_email">email地址错误</string>
+    <string name="error_invalid_password">密码过短</string>
+    <string name="error_incorrect_password">密码错误</string>
+    <string name="error_field_required">信息未填写完整</string>
+    <string name="unique">unique index cannot has duplicate value</string>
+    <string name="baseurl">https://wenku.baidu.com/view/</string>
+    <string name="nonetwork">The network is not available,please check your network!</string>
+    <string name="username">未登录</string>
+    <string name="download_dou">下载豆</string>
+    <string name="permission_rationale">未授权email权限
+    </string>
+    <string name="document_preview_activity">文档阅览</string>
+    <integer name="fail">100</integer>
+    <integer name="success">200</integer>
+    <integer name="fain_can_change">300</integer>
+    <!--侧边栏-->
+    <string name="myrecond">我的足迹</string>
+    <string name="personcenter">个人中心</string>
+    <string name="mydownload">我的购买</string>
+    <string name="mycollect">我的购物车</string>
+    <string name="aboutus">关于我们</string>
+
+    <!--操作-->
+    <string name="open">打开</string>
+    <string name="delete">删除</string>
+
+    <!--关于我们-->
+    <string name="us">我们是小冒冒团队,专为爱知识的提供服务,本软件只是收集网络上的资源,暂时并不提供资源的储存,如本软件有侵犯您的权益,请联系我们,我们会在第一时间处理</string>
+    <string name="title_activity_person">个人中心</string>
+    <string name="table_create">create table if not exists bdwd(_id integer primary key autoincrement,id text,url text,type text,pic text,num integer,creater text,title text,time text,fw text)
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>

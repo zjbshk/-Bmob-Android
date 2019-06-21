@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1E9FFF</color>
+    <color name="colorPrimaryDark">#1E96FF</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorAccentDark">#FF4051</color>
+    <color name="mygrap">#2F4056</color>
+    <color name="myshadow">#eeeefe</color>
+    <color name="grap">#9f9f9f</color>
+</resources>
